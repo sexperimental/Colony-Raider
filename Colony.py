@@ -9,7 +9,7 @@ def randomword(length):
 
 url = "https://minecraft-mcworld.com/wp-comments-post.php"
 
-id = input("URLにある数字を入力してください: ")
+id = input("投稿IDを入力してください: ")
 comment = input("コメントしたい文字を入力してください: ")
 count = int(input("何個のコメントを送信しますか: "))
 
